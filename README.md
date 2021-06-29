@@ -1,3 +1,13 @@
+# RetroArt
+
+## Tech Stack: Next.js / Tailwind CSS
+
+## Time took: 40 minutes
+
+<img src="./img/main_page.png"/>
+
+## Original Design: https://dribbble.com/shots/15865317/attachments/7688556?mode=media
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
