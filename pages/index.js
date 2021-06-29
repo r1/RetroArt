@@ -2,7 +2,6 @@
 /* eslint-disable @next/next/no-img-element */
 /* eslint-disable @next/next/no-html-link-for-pages */
 import Head from "next/head";
-import Link from "next/Link";
 
 export default function Home() {
   return (
