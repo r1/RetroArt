@@ -1,9 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
 html,
 body {
+  background-color: #faf6f1;
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Kanit', sans-serif;
 }
 
 a {
@@ -13,4 +19,12 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.seashell {
+  background-color: #faf6f1;
+}
+
+.ylw {
+  background-color: #e1ff65;
 }
